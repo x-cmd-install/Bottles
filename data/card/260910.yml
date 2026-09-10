@@ -2,26 +2,26 @@ about:
   description: "Run Windows software and games on Linux"
   license: GPL-3.0
   homepage: https://usebottles.com
-  head: 9b2039d
+  head: 0b0b6dc
   archived: false
   latestVersion: "67.4"
   latestRelease: "67.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:26:49Z
+  collectedAt: 2026-09-10T16:05:32Z
 timeline:
   created: 2017-10-14
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-10
   lastVersion: 2026-09-07
   lastRelease: 2026-09-07
   lastPrerelease: 
 popularity:
-  star: 8793
+  star: 8796
   watcher: 44
   fork: 373
   release: 231
   contributor: 418
   pullRequest: 1182
-  issue: 3155
+  issue: 3158
 language:
   Python: 2531822
   Blueprint: 206887
@@ -38,58 +38,58 @@ recent:
     mergedPR: 31
     openPR: 0
     closedIssue: 86
-    openIssue: 1
-    commit: 128
+    openIssue: 4
+    commit: 130
   last60d:
     since: 2026-07-12
     release: 22
     mergedPR: 67
     openPR: 0
     closedIssue: 133
-    openIssue: 1
-    commit: 295
+    openIssue: 4
+    commit: 297
   last90d:
     since: 2026-06-12
     release: 22
     mergedPR: 71
     openPR: 0
     closedIssue: 148
-    openIssue: 1
-    commit: 321
+    openIssue: 4
+    commit: 323
   last180d:
     since: 2026-03-14
     release: 27
     mergedPR: 93
     openPR: 0
     closedIssue: 214
-    openIssue: 1
-    commit: 410
+    openIssue: 4
+    commit: 412
   last360d:
     since: 2025-09-15
     release: 35
     mergedPR: 169
     openPR: 0
     closedIssue: 414
-    openIssue: 1
-    commit: 1013
+    openIssue: 4
+    commit: 1015
   last720d:
     since: 2024-09-20
     release: 46
     mergedPR: 231
     openPR: 0
     closedIssue: 734
-    openIssue: 1
-    commit: 1379
+    openIssue: 4
+    commit: 1381
 total:
   release: 231
   mergedPR: 1043
   openPR: 0
   closedIssue: 3154
-  openIssue: 1
-  commit: 7038
+  openIssue: 4
+  commit: 7040
 ---
 path: /home/runner/.x-repo/github.com/bottlesdevs/Bottles
-collectedAt: 2026-09-10T04:26:55Z
+collectedAt: 2026-09-10T16:05:40Z
 loc:
   Python:
     code: 57834
@@ -153,8 +153,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 775
-    blanks: 201
+    comments: 793
+    blanks: 211
     files: 7
   Text:
     code: 0
@@ -163,8 +163,8 @@ loc:
     files: 4
 total:
   code: 61203
-  comments: 4166
-  blanks: 11883
+  comments: 4184
+  blanks: 11893
   files: 459
 ---
 
