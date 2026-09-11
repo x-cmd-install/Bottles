@@ -7,7 +7,7 @@ about:
   latestVersion: "67.4"
   latestRelease: "67.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:18:02Z
+  collectedAt: 2026-09-11T04:25:57Z
 timeline:
   created: 2017-10-14
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 
 popularity:
-  star: 8797
+  star: 8799
   watcher: 44
   fork: 373
   release: 231
@@ -89,7 +89,7 @@ total:
   commit: 7040
 ---
 path: /home/runner/.x-repo/github.com/bottlesdevs/Bottles
-collectedAt: 2026-09-11T00:18:09Z
+collectedAt: 2026-09-11T04:26:03Z
 loc:
   Python:
     code: 57834
