@@ -37,7 +37,7 @@ Total: **61,179** lines of code across **435** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,797 · **Forks**: 373 · **Open issues**: 3,159 · **Contributors**: 418
+- **Stars**: 8,799 · **Forks**: 373 · **Open issues**: 3,159 · **Contributors**: 418
 
 ## Totals (cumulative)
 
@@ -63,4 +63,4 @@ Install metadata for Bottles lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:18:15Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:26:07Z._
