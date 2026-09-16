@@ -33,26 +33,26 @@ Total: **61,179** lines of code across **435** files in the top 5 languages.
 ## Release
 
 - **Latest**: `67.4` (2026-09-07)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-15
 
 ## Popularity
 
-- **Stars**: 8,830 · **Forks**: 373 · **Open issues**: 3,167 · **Contributors**: 418
+- **Stars**: 8,831 · **Forks**: 373 · **Open issues**: 3,168 · **Contributors**: 418
 
 ## Totals (cumulative)
 
-- **Releases**: 231 · **Merged PRs**: 1044 · **Open PRs**: 3 · **Closed issues**: 3155 · **Open issues**: 12 · **Commits**: 7042
+- **Releases**: 231 · **Merged PRs**: 1044 · **Open PRs**: 3 · **Closed issues**: 3155 · **Open issues**: 13 · **Commits**: 7043
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 10 | 29 | 3 | 66 | 12 | 111 |
-| last60d | 2026-07-17 | 22 | 68 | 3 | 132 | 12 | 298 |
-| 90d | 2026-06-17 | 22 | 72 | 3 | 145 | 12 | 325 |
-| last180d | 2026-03-19 | 27 | 92 | 3 | 213 | 12 | 399 |
-| 360d | 2025-09-20 | 35 | 170 | 3 | 411 | 12 | 1017 |
-| last720d | 2024-09-25 | 46 | 232 | 3 | 732 | 12 | 1383 |
+| 30d | 2026-08-17 | 9 | 29 | 3 | 65 | 13 | 112 |
+| last60d | 2026-07-18 | 22 | 68 | 3 | 130 | 13 | 299 |
+| 90d | 2026-06-18 | 22 | 71 | 3 | 145 | 13 | 326 |
+| last180d | 2026-03-20 | 27 | 92 | 3 | 213 | 13 | 400 |
+| 360d | 2025-09-21 | 35 | 170 | 3 | 409 | 13 | 1018 |
+| last720d | 2024-09-26 | 46 | 232 | 3 | 732 | 13 | 1382 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Bottles lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T04:44:14Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T04:39:47Z._
