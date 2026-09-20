@@ -4,7 +4,7 @@
 
 Run Windows software and games on Linux
 
-![Bottles](https://repo.x-cmd.io/Bottles.svg)
+[![x-cmd/install — Bottles Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Bottles.svg)](https://x-cmd.com/install/Bottles)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **61,179** lines of code across **435** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,839 · **Forks**: 373 · **Open issues**: 3,170 · **Contributors**: 418
+- **Stars**: 8,847 · **Forks**: 373 · **Open issues**: 3,181 · **Contributors**: 418
 
 ## Totals (cumulative)
 
-- **Releases**: 231 · **Merged PRs**: 1044 · **Open PRs**: 3 · **Closed issues**: 3156 · **Open issues**: 14 · **Commits**: 7043
+- **Releases**: 231 · **Merged PRs**: 1044 · **Open PRs**: 5 · **Closed issues**: 3158 · **Open issues**: 23 · **Commits**: 7043
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 9 | 25 | 3 | 56 | 14 | 112 |
-| last60d | 2026-07-20 | 22 | 67 | 3 | 130 | 14 | 299 |
-| 90d | 2026-06-20 | 22 | 71 | 3 | 145 | 14 | 326 |
-| last180d | 2026-03-22 | 27 | 91 | 3 | 214 | 14 | 400 |
-| 360d | 2025-09-23 | 35 | 170 | 3 | 409 | 14 | 1018 |
-| last720d | 2024-09-28 | 46 | 232 | 3 | 733 | 14 | 1382 |
+| 30d | 2026-08-21 | 9 | 24 | 5 | 55 | 23 | 112 |
+| last60d | 2026-07-22 | 22 | 67 | 5 | 132 | 23 | 299 |
+| 90d | 2026-06-22 | 22 | 71 | 5 | 147 | 23 | 326 |
+| last180d | 2026-03-24 | 26 | 90 | 5 | 214 | 23 | 400 |
+| 360d | 2025-09-25 | 35 | 170 | 5 | 411 | 23 | 1018 |
+| last720d | 2024-09-30 | 46 | 231 | 5 | 734 | 23 | 1382 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Bottles lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:35:02Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:46:44Z._

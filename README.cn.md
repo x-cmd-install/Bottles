@@ -4,7 +4,7 @@
 
 Run Windows software and games on Linux
 
-![Bottles](https://repo.x-cmd.io/Bottles.svg?lang=zh)
+[![x-cmd/install — Bottles Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Bottles.svg?lang=zh)](https://x-cmd.com/install/Bottles)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install Bottles
 
 ## 流行度
 
-- **Star**: 8,839 · **Fork**: 373 · **开放 issue**: 3,170 · **贡献者**: 418
+- **Star**: 8,847 · **Fork**: 373 · **开放 issue**: 3,181 · **贡献者**: 418
 
 ## 累计统计
 
-- **发布数**: 231 · **已合并 PR**: 1044 · **开放 PR**: 3 · **已关闭 issue**: 3156 · **开放 issue**: 14 · **提交数**: 7043
+- **发布数**: 231 · **已合并 PR**: 1044 · **开放 PR**: 5 · **已关闭 issue**: 3158 · **开放 issue**: 23 · **提交数**: 7043
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 9 | 25 | 3 | 56 | 14 | 112 |
-| last60d | 2026-07-20 | 22 | 67 | 3 | 130 | 14 | 299 |
-| 90d | 2026-06-20 | 22 | 71 | 3 | 145 | 14 | 326 |
-| last180d | 2026-03-22 | 27 | 91 | 3 | 214 | 14 | 400 |
-| 360d | 2025-09-23 | 35 | 170 | 3 | 409 | 14 | 1018 |
-| last720d | 2024-09-28 | 46 | 232 | 3 | 733 | 14 | 1382 |
+| 30d | 2026-08-21 | 9 | 24 | 5 | 55 | 23 | 112 |
+| last60d | 2026-07-22 | 22 | 67 | 5 | 132 | 23 | 299 |
+| 90d | 2026-06-22 | 22 | 71 | 5 | 147 | 23 | 326 |
+| last180d | 2026-03-24 | 26 | 90 | 5 | 214 | 23 | 400 |
+| 360d | 2025-09-25 | 35 | 170 | 5 | 411 | 23 | 1018 |
+| last720d | 2024-09-30 | 46 | 231 | 5 | 734 | 23 | 1382 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ Bottles 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:35:03Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:46:45Z._
