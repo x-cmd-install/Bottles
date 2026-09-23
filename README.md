@@ -4,7 +4,7 @@
 
 Run Windows software and games on Linux
 
-[![x-cmd/install — Bottles Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Bottles.svg)](https://x-cmd.com/install/Bottles)
+[![x-cmd/install — Bottles Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/Bottles.svg)](https://x-cmd.com/install/Bottles)
 
 ## Install
 
@@ -33,26 +33,26 @@ Total: **61,546** lines of code across **435** files in the top 5 languages.
 ## Release
 
 - **Latest**: `67.4` (2026-09-07)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-22
 
 ## Popularity
 
-- **Stars**: 8,853 · **Forks**: 372 · **Open issues**: 3,183 · **Contributors**: 418
+- **Stars**: 8,856 · **Forks**: 373 · **Open issues**: 3,185 · **Contributors**: 418
 
 ## Totals (cumulative)
 
-- **Releases**: 231 · **Merged PRs**: 1042 · **Open PRs**: 5 · **Closed issues**: 3158 · **Open issues**: 25 · **Commits**: 7053
+- **Releases**: 231 · **Merged PRs**: 1042 · **Open PRs**: 6 · **Closed issues**: 3159 · **Open issues**: 26 · **Commits**: 7054
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 8 | 23 | 5 | 42 | 25 | 99 |
-| last60d | 2026-07-24 | 22 | 67 | 5 | 130 | 25 | 308 |
-| 90d | 2026-06-24 | 22 | 71 | 5 | 146 | 25 | 334 |
-| last180d | 2026-03-26 | 26 | 90 | 5 | 211 | 25 | 409 |
-| 360d | 2025-09-27 | 35 | 170 | 5 | 411 | 25 | 1028 |
-| last720d | 2024-10-02 | 46 | 231 | 5 | 730 | 25 | 1392 |
+| 30d | 2026-08-24 | 8 | 23 | 6 | 43 | 26 | 100 |
+| last60d | 2026-07-25 | 22 | 67 | 6 | 129 | 26 | 309 |
+| 90d | 2026-06-25 | 22 | 71 | 6 | 145 | 26 | 335 |
+| last180d | 2026-03-27 | 26 | 90 | 6 | 210 | 26 | 410 |
+| 360d | 2025-09-28 | 35 | 170 | 6 | 411 | 26 | 1029 |
+| last720d | 2024-10-03 | 46 | 231 | 6 | 731 | 26 | 1393 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Bottles lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:40:17Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:36:46Z._
