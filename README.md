@@ -33,26 +33,26 @@ Total: **62,166** lines of code across **436** files in the top 5 languages.
 ## Release
 
 - **Latest**: `67.4` (2026-09-07)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-09-29
 
 ## Popularity
 
-- **Stars**: 8,905 · **Forks**: 376 · **Open issues**: 3,191 · **Contributors**: 418
+- **Stars**: 8,912 · **Forks**: 376 · **Open issues**: 3,192 · **Contributors**: 418
 
 ## Totals (cumulative)
 
-- **Releases**: 231 · **Merged PRs**: 1042 · **Open PRs**: 5 · **Closed issues**: 3159 · **Open issues**: 32 · **Commits**: 7065
+- **Releases**: 231 · **Merged PRs**: 1042 · **Open PRs**: 5 · **Closed issues**: 3161 · **Open issues**: 31 · **Commits**: 7066
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 6 | 14 | 5 | 33 | 32 | 47 |
-| last60d | 2026-07-31 | 22 | 66 | 5 | 126 | 32 | 220 |
-| 90d | 2026-07-01 | 22 | 69 | 5 | 143 | 32 | 344 |
-| last180d | 2026-04-02 | 25 | 85 | 5 | 207 | 32 | 408 |
-| 360d | 2025-10-04 | 35 | 170 | 5 | 408 | 32 | 1040 |
-| last720d | 2024-10-09 | 46 | 230 | 5 | 726 | 32 | 1332 |
+| 30d | 2026-08-31 | 6 | 10 | 5 | 33 | 31 | 48 |
+| last60d | 2026-08-01 | 22 | 65 | 5 | 127 | 31 | 221 |
+| 90d | 2026-07-02 | 22 | 69 | 5 | 144 | 31 | 345 |
+| last180d | 2026-04-03 | 24 | 85 | 5 | 208 | 31 | 409 |
+| 360d | 2025-10-05 | 35 | 170 | 5 | 410 | 31 | 1041 |
+| last720d | 2024-10-10 | 46 | 230 | 5 | 727 | 31 | 1328 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Bottles lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:34:49Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:23:20Z._
