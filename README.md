@@ -33,26 +33,26 @@ Total: **65,758** lines of code across **443** files in the top 5 languages.
 ## Release
 
 - **Latest**: `67.4` (2026-09-07)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-09
 
 ## Popularity
 
-- **Stars**: 8,941 · **Forks**: 376 · **Open issues**: 3,201 · **Contributors**: 418
+- **Stars**: 8,939 · **Forks**: 376 · **Open issues**: 3,202 · **Contributors**: 418
 
 ## Totals (cumulative)
 
-- **Releases**: 231 · **Merged PRs**: 1042 · **Open PRs**: 5 · **Closed issues**: 3165 · **Open issues**: 36 · **Commits**: 7109
+- **Releases**: 231 · **Merged PRs**: 1042 · **Open PRs**: 5 · **Closed issues**: 3165 · **Open issues**: 37 · **Commits**: 7111
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 1 | 5 | 11 | 35 | 69 |
-| last60d | 2026-08-10 | 17 | 38 | 5 | 102 | 36 | 214 |
-| 90d | 2026-07-11 | 22 | 68 | 5 | 144 | 36 | 368 |
-| last180d | 2026-04-12 | 24 | 85 | 5 | 199 | 36 | 452 |
-| 360d | 2025-10-14 | 35 | 168 | 5 | 406 | 36 | 1084 |
-| last720d | 2024-10-19 | 44 | 229 | 5 | 719 | 36 | 1362 |
+| 30d | 2026-09-10 | 0 | 1 | 5 | 11 | 32 | 71 |
+| last60d | 2026-08-11 | 17 | 32 | 5 | 97 | 37 | 216 |
+| 90d | 2026-07-12 | 22 | 68 | 5 | 144 | 37 | 370 |
+| last180d | 2026-04-13 | 24 | 85 | 5 | 198 | 37 | 454 |
+| 360d | 2025-10-15 | 35 | 168 | 5 | 405 | 37 | 1086 |
+| last720d | 2024-10-20 | 44 | 229 | 5 | 717 | 37 | 1364 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Bottles lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T05:55:58Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:38:22Z._
