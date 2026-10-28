@@ -14,12 +14,12 @@ x install Bottles
 
 ## Code insight
 
-Total: **69,038** lines of code across **460** files in the top 5 languages.
+Total: **69,292** lines of code across **461** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 65,679 | 3,350 | 12,780 | 363 |
-| Autoconf | 929 | 0 | 1 | 3 |
+| Python | 65,903 | 3,350 | 12,822 | 364 |
+| Autoconf | 944 | 0 | 1 | 3 |
 | Svg | 656 | 0 | 2 | 69 |
 | Meson | 600 | 4 | 65 | 22 |
 | Json | 524 | 0 | 0 | 3 |
@@ -32,27 +32,27 @@ Total: **69,038** lines of code across **460** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `67.4` (2026-09-07)
-- **Last commit**: 2026-10-26
+- **Latest**: `67.5` (2026-10-27)
+- **Last commit**: 2026-10-27
 
 ## Popularity
 
-- **Stars**: 9,005 · **Forks**: 377 · **Open issues**: 3,224 · **Contributors**: 419
+- **Stars**: 9,013 · **Forks**: 377 · **Open issues**: 3,226 · **Contributors**: 420
 
 ## Totals (cumulative)
 
-- **Releases**: 231 · **Merged PRs**: 1050 · **Open PRs**: 6 · **Closed issues**: 3189 · **Open issues**: 35 · **Commits**: 7195
+- **Releases**: 232 · **Merged PRs**: 1052 · **Open PRs**: 4 · **Closed issues**: 3198 · **Open issues**: 28 · **Commits**: 7210
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 4 | 6 | 24 | 15 | 117 |
-| last60d | 2026-08-28 | 7 | 25 | 6 | 68 | 35 | 188 |
-| 90d | 2026-07-29 | 22 | 75 | 6 | 160 | 35 | 380 |
-| last180d | 2026-04-30 | 24 | 90 | 6 | 214 | 35 | 531 |
-| 360d | 2025-11-01 | 34 | 172 | 6 | 410 | 35 | 740 |
-| last720d | 2024-11-06 | 44 | 237 | 6 | 736 | 35 | 1448 |
+| 30d | 2026-09-28 | 1 | 6 | 4 | 28 | 10 | 132 |
+| last60d | 2026-08-29 | 8 | 24 | 4 | 75 | 28 | 203 |
+| 90d | 2026-07-30 | 23 | 77 | 4 | 167 | 28 | 395 |
+| last180d | 2026-05-01 | 25 | 91 | 4 | 223 | 28 | 546 |
+| 360d | 2025-11-02 | 35 | 167 | 4 | 418 | 28 | 755 |
+| last720d | 2024-11-07 | 45 | 239 | 4 | 744 | 28 | 1463 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Bottles lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T04:49:40Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:24:15Z._
