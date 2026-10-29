@@ -43,13 +43,13 @@
   "body": "## What's Changed\n* Fixed template downloads and component catalog fallback, including installed components when offline.\n* Fixed dependency installers with Z: disabled, font installation and reporting installer failures.\n* Fixed importing prefix architecture and preserving user files when restoring bottles on another account.\n* Fixed desktop shortcuts, executable drag and drop, bottle ordering and component removal controls.\n* Fixed UMU controller access and retrying failed game searches.\n* Fixed the bottle's Wayland setting for Proton launches.\n* Added optional Eagle tracing and native analysis with compatible Soda runners. Other runners keep the existing analyzer and launch path.\n* Added the identity bridge for compatible Soda runners, including browser return handling and account storage in the system keyring.\n* Changed playtime totals to hours.\n\n**Full Changelog**: https://github.com/bottlesdevs/Bottles/compare/67.4...67.5\n\n<!-- install-badges -->\n\n## Get Bottles\n\n[![Download on Flathub](https://flathub.org/api/badge?svg&locale=en)](https://flathub.org/apps/com.usebottles.bottles)\n[![Get it with cpak](https://cpak.it/badges/get-it-with-cpak.svg)](https://cpak.it/store/Utilities/github.com/bottlesdevs/bottles)\n",
   "reactions": {
     "url": "https://api.github.com/repos/bottlesdevs/Bottles/releases/425389241/reactions",
-    "total_count": 7,
-    "+1": 1,
+    "total_count": 9,
+    "+1": 2,
     "-1": 0,
     "laugh": 0,
     "hooray": 1,
     "confused": 0,
-    "heart": 5,
+    "heart": 6,
     "rocket": 0,
     "eyes": 0
   }
