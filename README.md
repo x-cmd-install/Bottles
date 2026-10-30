@@ -14,11 +14,11 @@ x install Bottles
 
 ## Code insight
 
-Total: **69,445** lines of code across **461** files in the top 5 languages.
+Total: **69,447** lines of code across **461** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 66,056 | 3,350 | 12,843 | 364 |
+| Python | 66,058 | 3,348 | 12,848 | 364 |
 | Autoconf | 944 | 0 | 1 | 3 |
 | Svg | 656 | 0 | 2 | 69 |
 | Meson | 600 | 4 | 65 | 22 |
@@ -37,22 +37,22 @@ Total: **69,445** lines of code across **461** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,016 · **Forks**: 378 · **Open issues**: 3,228 · **Contributors**: 420
+- **Stars**: 9,021 · **Forks**: 380 · **Open issues**: 3,229 · **Contributors**: 420
 
 ## Totals (cumulative)
 
-- **Releases**: 232 · **Merged PRs**: 1052 · **Open PRs**: 2 · **Closed issues**: 3199 · **Open issues**: 29 · **Commits**: 7216
+- **Releases**: 232 · **Merged PRs**: 1052 · **Open PRs**: 3 · **Closed issues**: 3199 · **Open issues**: 30 · **Commits**: 7220
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 6 | 2 | 28 | 11 | 138 |
-| last60d | 2026-08-30 | 7 | 24 | 2 | 74 | 29 | 209 |
-| 90d | 2026-07-31 | 23 | 76 | 2 | 167 | 29 | 401 |
-| last180d | 2026-05-02 | 25 | 91 | 2 | 223 | 29 | 552 |
-| 360d | 2025-11-03 | 34 | 166 | 2 | 417 | 29 | 761 |
-| last720d | 2024-11-08 | 45 | 239 | 2 | 744 | 29 | 1469 |
+| 30d | 2026-09-30 | 1 | 5 | 3 | 27 | 11 | 142 |
+| last60d | 2026-08-31 | 7 | 20 | 3 | 72 | 30 | 213 |
+| 90d | 2026-08-01 | 23 | 75 | 3 | 166 | 30 | 405 |
+| last180d | 2026-05-03 | 25 | 91 | 3 | 223 | 30 | 556 |
+| 360d | 2025-11-04 | 34 | 166 | 3 | 417 | 30 | 765 |
+| last720d | 2024-11-09 | 45 | 238 | 3 | 742 | 30 | 1473 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Bottles lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:34:10Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:35:05Z._
