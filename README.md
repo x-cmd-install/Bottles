@@ -33,26 +33,26 @@ Total: **71,947** lines of code across **471** files in the top 5 languages.
 ## Release
 
 - **Latest**: `67.6` (2026-11-04)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-05
 
 ## Popularity
 
-- **Stars**: 9,050 · **Forks**: 385 · **Open issues**: 3,237 · **Contributors**: 421
+- **Stars**: 9,050 · **Forks**: 385 · **Open issues**: 3,234 · **Contributors**: 421
 
 ## Totals (cumulative)
 
-- **Releases**: 233 · **Merged PRs**: 1056 · **Open PRs**: 1 · **Closed issues**: 3223 · **Open issues**: 14 · **Commits**: 7262
+- **Releases**: 233 · **Merged PRs**: 1056 · **Open PRs**: 1 · **Closed issues**: 3220 · **Open issues**: 14 · **Commits**: 7264
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 9 | 1 | 32 | 9 | 153 |
-| last60d | 2026-09-06 | 4 | 19 | 1 | 79 | 14 | 228 |
-| 90d | 2026-08-07 | 19 | 62 | 1 | 167 | 14 | 398 |
-| last180d | 2026-05-09 | 26 | 94 | 1 | 247 | 14 | 596 |
-| 360d | 2025-11-10 | 34 | 165 | 1 | 432 | 14 | 777 |
-| last720d | 2024-11-15 | 46 | 241 | 1 | 766 | 14 | 1514 |
+| 30d | 2026-10-07 | 2 | 9 | 1 | 31 | 9 | 155 |
+| last60d | 2026-09-07 | 4 | 17 | 1 | 76 | 14 | 230 |
+| 90d | 2026-08-08 | 19 | 61 | 1 | 165 | 14 | 400 |
+| last180d | 2026-05-10 | 26 | 94 | 1 | 246 | 14 | 598 |
+| 360d | 2025-11-11 | 34 | 165 | 1 | 432 | 14 | 779 |
+| last720d | 2024-11-16 | 46 | 241 | 1 | 765 | 14 | 1516 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Bottles lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:27:58Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:21:56Z._
