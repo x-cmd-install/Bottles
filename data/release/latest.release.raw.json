@@ -43,13 +43,13 @@
   "body": "## What's Changed\n* Added bottle moves between directories and a destination picker when duplicating bottles.\n* Added per-bottle notes and library sorting by bottle name.\n* Added Default, Application and System DPI scaling modes in Advanced Display Settings.\n* Added optional UMU controls, support for launch wrappers and download status in the library.\n* Added a playtime reset button and warnings for missing program files without removing shortcuts.\n* Fixed interrupted downloads on slow connections with a longer read timeout and bounded retries.\n* Fixed startup delays, repeated Battle.net launches and saving imported bottles on external drives.\n* Fixed Windows XP selection on 64-bit bottles and switching between Fsync and NTSync.\n* Fixed restoring the Windows version after dependency installation, dependency progress and multiple uninstallers.\n* Fixed Wine server shutdown and added an installer option to stop completed sessions.\n* Fixed GL32 debug symbol mounts and exposed the selected Wine executable to launch scripts.\n* Updated the experimental Soda catalogs and installer progress logs.\n\n**Full Changelog**: https://github.com/bottlesdevs/Bottles/compare/67.5...67.6\n\n<!-- install-badges -->\n\n## Get Bottles\n\n[![Download on Flathub](https://flathub.org/api/badge?svg&locale=en)](https://flathub.org/apps/com.usebottles.bottles)\n[![Get it with cpak](https://cpak.it/badges/get-it-with-cpak.svg)](https://cpak.it/store/Utilities/github.com/bottlesdevs/bottles)\n",
   "reactions": {
     "url": "https://api.github.com/repos/bottlesdevs/Bottles/releases/434462581/reactions",
-    "total_count": 4,
-    "+1": 0,
+    "total_count": 8,
+    "+1": 1,
     "-1": 0,
     "laugh": 0,
     "hooray": 2,
     "confused": 0,
-    "heart": 2,
+    "heart": 5,
     "rocket": 0,
     "eyes": 0
   }
