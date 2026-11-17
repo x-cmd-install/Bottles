@@ -33,26 +33,26 @@ Total: **71,987** lines of code across **471** files in the top 5 languages.
 ## Release
 
 - **Latest**: `67.6` (2026-11-04)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-17
 
 ## Popularity
 
-- **Stars**: 9,083 · **Forks**: 386 · **Open issues**: 3,249 · **Contributors**: 420
+- **Stars**: 9,087 · **Forks**: 386 · **Open issues**: 3,252 · **Contributors**: 420
 
 ## Totals (cumulative)
 
-- **Releases**: 233 · **Merged PRs**: 1056 · **Open PRs**: 5 · **Closed issues**: 3227 · **Open issues**: 22 · **Commits**: 7275
+- **Releases**: 233 · **Merged PRs**: 1056 · **Open PRs**: 5 · **Closed issues**: 3228 · **Open issues**: 24 · **Commits**: 7276
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 6 | 4 | 22 | 16 | 114 |
-| last60d | 2026-09-17 | 2 | 13 | 5 | 63 | 19 | 221 |
-| 90d | 2026-08-18 | 11 | 41 | 5 | 136 | 22 | 334 |
-| last180d | 2026-05-20 | 26 | 93 | 5 | 242 | 22 | 606 |
-| 360d | 2025-11-21 | 34 | 135 | 5 | 428 | 22 | 745 |
-| last720d | 2024-11-26 | 46 | 241 | 5 | 759 | 22 | 1527 |
+| 30d | 2026-10-18 | 2 | 6 | 4 | 21 | 16 | 115 |
+| last60d | 2026-09-18 | 2 | 12 | 5 | 55 | 18 | 222 |
+| 90d | 2026-08-19 | 11 | 39 | 5 | 129 | 22 | 335 |
+| last180d | 2026-05-21 | 26 | 93 | 5 | 242 | 22 | 607 |
+| 360d | 2025-11-22 | 33 | 134 | 5 | 422 | 22 | 746 |
+| last720d | 2024-11-27 | 46 | 241 | 5 | 760 | 24 | 1528 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Bottles lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:10:28Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:01:47Z._
