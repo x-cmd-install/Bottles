@@ -33,26 +33,26 @@ Total: **72,281** lines of code across **473** files in the top 5 languages.
 ## Release
 
 - **Latest**: `67.7` (2026-11-17)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-26
 
 ## Popularity
 
-- **Stars**: 9,112 · **Forks**: 390 · **Open issues**: 3,257 · **Contributors**: 420
+- **Stars**: 9,113 · **Forks**: 390 · **Open issues**: 3,257 · **Contributors**: 420
 
 ## Totals (cumulative)
 
-- **Releases**: 234 · **Merged PRs**: 1060 · **Open PRs**: 1 · **Closed issues**: 3234 · **Open issues**: 23 · **Commits**: 7302
+- **Releases**: 234 · **Merged PRs**: 1060 · **Open PRs**: 1 · **Closed issues**: 3234 · **Open issues**: 23 · **Commits**: 7304
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 3 | 7 | 0 | 15 | 14 | 0 |
-| last60d | 2026-09-27 | 3 | 14 | 1 | 54 | 16 | 0 |
-| 90d | 2026-08-28 | 10 | 35 | 1 | 113 | 21 | 0 |
-| last180d | 2026-05-30 | 26 | 90 | 1 | 241 | 21 | 0 |
-| 360d | 2025-12-01 | 33 | 136 | 1 | 409 | 21 | 0 |
-| last720d | 2024-12-06 | 47 | 240 | 1 | 760 | 23 | 1553 |
+| 30d | 2026-10-28 | 2 | 7 | 0 | 13 | 14 | 0 |
+| last60d | 2026-09-28 | 3 | 14 | 1 | 51 | 16 | 0 |
+| 90d | 2026-08-29 | 10 | 32 | 1 | 111 | 21 | 0 |
+| last180d | 2026-05-31 | 25 | 90 | 1 | 239 | 21 | 0 |
+| 360d | 2025-12-02 | 33 | 135 | 1 | 408 | 21 | 0 |
+| last720d | 2024-12-07 | 47 | 239 | 1 | 759 | 23 | 1555 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Bottles lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:15:55Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:08:26Z._
